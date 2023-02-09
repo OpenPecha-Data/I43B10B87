@@ -1,0 +1,79 @@
+id: 5ef135c0279645f499dfbf2c3518ea20
+annotation_type: index
+revision: '00001'
+annotations:
+  07b0e7bfa2f04eeea7baf5f99e8fd615:
+    base: 7EBD.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 8
+    - title: Introduction
+      span:
+        start: 9
+        end: 21
+    - title: §0-10
+      span:
+        start: 22
+        end: 898
+    - title: §11-20
+      span:
+        start: 899
+        end: 1569
+    - title: §21-30
+      span:
+        start: 1570
+        end: 2021
+    - title: §31-40
+      span:
+        start: 2022
+        end: 2315
+    - title: §41-50
+      span:
+        start: 2316
+        end: 2914
+    - title: §61-70
+      span:
+        start: 2915
+        end: 3513
+    - title: §71-80
+      span:
+        start: 3514
+        end: 3970
+    - title: §81-90
+      span:
+        start: 3971
+        end: 4471
+    - title: §91-100
+      span:
+        start: 4472
+        end: 5236
+    - title: §101-110
+      span:
+        start: 5237
+        end: 5889
+    - title: §111-120
+      span:
+        start: 5890
+        end: 6252
+    - title: §121-130
+      span:
+        start: 6253
+        end: 6826
+    - title: §130-20
+      span:
+        start: 6827
+        end: 7596
+    - title: §141-150
+      span:
+        start: 7597
+        end: 8576
+    - title: §151-160
+      span:
+        start: 8577
+        end: 8686
+    - title: §161-166
+      span:
+        start: 8687
+        end: 8787

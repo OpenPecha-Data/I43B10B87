@@ -1,0 +1,16 @@
+id: I43B10B87
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:57:50.452916
+last_modified: 2023-02-09 14:57:50.453018
+source_metadata:
+  title: 'RK: Kāśyapaparivarta'
+  language: zh
+bases:
+  7EBD:
+    base_file: 7EBD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
